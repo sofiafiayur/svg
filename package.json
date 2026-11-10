@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs-extra": "^11.3.2",
+    "path": "^0.12.7",
+    "svgo": "^4.0.0",
+    "svgpath": "^2.6.0",
+    "svgson": "^5.3.1"
+  }
+}
